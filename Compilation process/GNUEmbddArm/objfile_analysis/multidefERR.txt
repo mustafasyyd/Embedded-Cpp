@@ -1,0 +1,5 @@
+C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe:
+     C:\Users\musta\AppData\Local\Temp\ccisazPS.o:lib.c:(.text+0x0):
+        multiple definition of `play_sound()'; C:\Users\musta\AppData\Local\Temp\ccqmo9uY.o:app.c:
+                (.text+0x0): first defined here 
+collect2.exe: error: ld returned 1 exit status
